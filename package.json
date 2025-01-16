@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.5.0",
     "mongodb": "^3.5.7",
-    "mongoose": "^5.9.10"
+    "mongoose": "^8.9.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
